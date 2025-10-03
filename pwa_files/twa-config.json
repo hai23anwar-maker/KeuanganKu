@@ -1,0 +1,13 @@
+{
+  "packageId": "com.user.financeapp",
+  "host": "example.com",
+  "name": "Catatan Keuangan",
+  "launcherName": "Keuangan",
+  "display": "standalone",
+  "shortName": "Keuangan",
+  "startUrl": "/",
+  "enableNotifications": false,
+  "manifestUrl": "https://example.com/manifest.json",
+  "fallbackType": "webview",
+  "outputPath": "twa-output"
+}
