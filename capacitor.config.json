@@ -1,0 +1,6 @@
+{
+  "appId": "com.user.financeapp",
+  "appName": "Catatan Keuangan",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
